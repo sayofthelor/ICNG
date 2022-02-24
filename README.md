@@ -12,3 +12,5 @@ state on line 2
 username on line 3
 password on line 4
 ```
+
+to run the app make sure you're in the directory and run `node ICNG.js`
