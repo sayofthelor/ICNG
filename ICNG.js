@@ -55,6 +55,6 @@ function doThings() {
 
 // end of functions and variables
 
-console.log("\n----------\nIC Grabber\n----------\n\nLogging in... (make sure your credentials are in credentials.txt)\n");
+console.log("\n---------\nICNG V1.0\n---------\n\nLogging in... (make sure your credentials are in credentials.txt)\n");
 getStuff();
 setTimeout(doThings, 2000);
